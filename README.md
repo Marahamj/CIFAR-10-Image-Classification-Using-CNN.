@@ -39,6 +39,10 @@ In this project, I applied core Computer Vision and Deep Learning techniques:
 * **Advanced Error Analysis:** Generated and interpreted a **Confusion Matrix** to discover class-specific weaknesses (e.g., Cat vs. Dog confusion).
 * **Data Pipelines:** Processed imagery data arrays using `NumPy` and prepared target labels using categorical encoding.
 
+
+https://colab.research.google.com/drive/185mS2N3xvq4j-YCqQweYG1WyVwyzirSi?authuser=1#scrollTo=Vcmi9esD27FY
+
+
 ## 🛠️ Tools Used
 * Python
 * TensorFlow / Keras
